@@ -11,16 +11,19 @@
 </p>
 
 <a href="#title">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=charllysemerenciano&show_icons=true&locale=en" alt="charllysemerenciano" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=charllysemerenciano&show_icons=true&locale=pt-br" alt="charllysemerenciano" />
 </a>
 
 
 - 🔭 Atualmente estou trabalhando em <a target="_blank" href="https://inovall.com.br">Inovall</a>
 - 🌱 Atualmente estou aprendendo <strong>Java</strong>
-- 💬 Pergunte-me sobre <strong>Web development</strong>
+- 💬 Pergunte-me sobre <strong>Desenvolvimento Web</strong>
 - 📫 Como entrar em contato comigo: <a target="_blank"  href="https://www.linkedin.com/in/charllysemerenciano/">Linkedin</a>
 - ⚡ Curiosidade: eu amo animes
 
+
+<br>
+<br>
 
 
 ## Tecnologias Favoritas
@@ -93,5 +96,3 @@
     </td>
   </tr>
 </table>
-
-![Charllys Emerenciano Status Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=charllysemerenciano)
