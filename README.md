@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hello there! I'm Charllys Emerenciano 
 
-<!--
-**charllysemerenciano/charllysemerenciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/charllysemerenciano/charllysemerenciano">
+    <img src="https://komarev.com/ghpvc/?username=charllysemerenciano" alt="page views" />
+  </a>
+  <a href="https://github.com/charllysemerenciano?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/charllysemerenciano?color=green&logo=github">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#title">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=charllysemerenciano&show_icons=true&locale=en" alt="charllysemerenciano" />
+</a>
+
+
+- 🔭 I’m currently working on <a href="inovall.com.br">Inovall</a>
+- 🌱 I’m currently learning <strong>Java</strong>
+- 💬 Ask me about <strong>Web development</strong>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/charllysemerenciano/">Linkedin</a>
+- ⚡ Fun fact: I love animes
+
+
