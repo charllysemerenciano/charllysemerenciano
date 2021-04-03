@@ -15,10 +15,10 @@
 </a>
 
 
-- 🔭 I’m currently working on <a href="inovall.com.br">Inovall</a>
+- 🔭 I’m currently working on <a target="_blank" href="https://inovall.com.br">Inovall</a>
 - 🌱 I’m currently learning <strong>Java</strong>
 - 💬 Ask me about <strong>Web development</strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/charllysemerenciano/">Linkedin</a>
+- 📫 How to reach me: <a target="_blank"  href="https://www.linkedin.com/in/charllysemerenciano/">Linkedin</a>
 - ⚡ Fun fact: I love animes
 
 
