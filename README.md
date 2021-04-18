@@ -15,8 +15,8 @@
 </a>
 
 
-- 🔭 I’m currently working on <a target="_blank" href="https://inovall.com.br">Inovall</a>
-- 🌱 I’m currently learning <strong>Java</strong>
+- 🔭 I’m currently working on <a target="_blank" href="https://www.wipro.com/pt-BR/overview/">Wipro</a>
+- 🌱 I’m currently learning <strong>C#</strong>
 - 💬 Ask me about <strong>Web development</strong>
 - 📫 How to reach me: <a target="_blank"  href="https://www.linkedin.com/in/charllysemerenciano/">Linkedin</a>
 - ⚡ Fun fact: I love animes
